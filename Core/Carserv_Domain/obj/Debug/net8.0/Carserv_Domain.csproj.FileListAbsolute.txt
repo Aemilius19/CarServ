@@ -1,0 +1,15 @@
+C:\Users\ca.r215.06\Desktop\MVC\Carserv\Core\Carserv_Domain\bin\Debug\net8.0\Carserv_Domain.deps.json
+C:\Users\ca.r215.06\Desktop\MVC\Carserv\Core\Carserv_Domain\bin\Debug\net8.0\Carserv_Domain.runtimeconfig.json
+C:\Users\ca.r215.06\Desktop\MVC\Carserv\Core\Carserv_Domain\bin\Debug\net8.0\Carserv_Domain.dll
+C:\Users\ca.r215.06\Desktop\MVC\Carserv\Core\Carserv_Domain\bin\Debug\net8.0\Carserv_Domain.pdb
+C:\Users\ca.r215.06\Desktop\MVC\Carserv\Core\Carserv_Domain\obj\Debug\net8.0\Carserv_Domain.csproj.AssemblyReference.cache
+C:\Users\ca.r215.06\Desktop\MVC\Carserv\Core\Carserv_Domain\obj\Debug\net8.0\Carserv_Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r215.06\Desktop\MVC\Carserv\Core\Carserv_Domain\obj\Debug\net8.0\Carserv_Domain.AssemblyInfoInputs.cache
+C:\Users\ca.r215.06\Desktop\MVC\Carserv\Core\Carserv_Domain\obj\Debug\net8.0\Carserv_Domain.AssemblyInfo.cs
+C:\Users\ca.r215.06\Desktop\MVC\Carserv\Core\Carserv_Domain\obj\Debug\net8.0\Carserv_Domain.csproj.CoreCompileInputs.cache
+C:\Users\ca.r215.06\Desktop\MVC\Carserv\Core\Carserv_Domain\obj\Debug\net8.0\Carserv_Domain.sourcelink.json
+C:\Users\ca.r215.06\Desktop\MVC\Carserv\Core\Carserv_Domain\obj\Debug\net8.0\Carserv_Domain.dll
+C:\Users\ca.r215.06\Desktop\MVC\Carserv\Core\Carserv_Domain\obj\Debug\net8.0\refint\Carserv_Domain.dll
+C:\Users\ca.r215.06\Desktop\MVC\Carserv\Core\Carserv_Domain\obj\Debug\net8.0\Carserv_Domain.pdb
+C:\Users\ca.r215.06\Desktop\MVC\Carserv\Core\Carserv_Domain\obj\Debug\net8.0\Carserv_Domain.genruntimeconfig.cache
+C:\Users\ca.r215.06\Desktop\MVC\Carserv\Core\Carserv_Domain\obj\Debug\net8.0\ref\Carserv_Domain.dll

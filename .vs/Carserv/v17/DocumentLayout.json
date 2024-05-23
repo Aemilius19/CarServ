@@ -1,0 +1,510 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Carserv\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{595CDAAD-1652-41E8-9D91-D2B703769E88}|Presentation\\Carserv_Presentation\\Carserv_Presentation.csproj|c:\\users\\ca.r215.06\\desktop\\mvc\\carserv\\presentation\\carserv_presentation\\areas\\admin\\controllers\\expertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{595CDAAD-1652-41E8-9D91-D2B703769E88}|Presentation\\Carserv_Presentation\\Carserv_Presentation.csproj|solutionrelative:presentation\\carserv_presentation\\areas\\admin\\controllers\\expertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{595CDAAD-1652-41E8-9D91-D2B703769E88}|Presentation\\Carserv_Presentation\\Carserv_Presentation.csproj|c:\\users\\ca.r215.06\\desktop\\mvc\\carserv\\presentation\\carserv_presentation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{595CDAAD-1652-41E8-9D91-D2B703769E88}|Presentation\\Carserv_Presentation\\Carserv_Presentation.csproj|solutionrelative:presentation\\carserv_presentation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{595CDAAD-1652-41E8-9D91-D2B703769E88}|Presentation\\Carserv_Presentation\\Carserv_Presentation.csproj|c:\\users\\ca.r215.06\\desktop\\mvc\\carserv\\presentation\\carserv_presentation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{595CDAAD-1652-41E8-9D91-D2B703769E88}|Presentation\\Carserv_Presentation\\Carserv_Presentation.csproj|solutionrelative:presentation\\carserv_presentation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{595CDAAD-1652-41E8-9D91-D2B703769E88}|Presentation\\Carserv_Presentation\\Carserv_Presentation.csproj|c:\\users\\ca.r215.06\\desktop\\mvc\\carserv\\presentation\\carserv_presentation\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{595CDAAD-1652-41E8-9D91-D2B703769E88}|Presentation\\Carserv_Presentation\\Carserv_Presentation.csproj|solutionrelative:presentation\\carserv_presentation\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{595CDAAD-1652-41E8-9D91-D2B703769E88}|Presentation\\Carserv_Presentation\\Carserv_Presentation.csproj|c:\\users\\ca.r215.06\\desktop\\mvc\\carserv\\presentation\\carserv_presentation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{595CDAAD-1652-41E8-9D91-D2B703769E88}|Presentation\\Carserv_Presentation\\Carserv_Presentation.csproj|solutionrelative:presentation\\carserv_presentation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{595CDAAD-1652-41E8-9D91-D2B703769E88}|Presentation\\Carserv_Presentation\\Carserv_Presentation.csproj|c:\\users\\ca.r215.06\\desktop\\mvc\\carserv\\presentation\\carserv_presentation\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{595CDAAD-1652-41E8-9D91-D2B703769E88}|Presentation\\Carserv_Presentation\\Carserv_Presentation.csproj|solutionrelative:presentation\\carserv_presentation\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{595CDAAD-1652-41E8-9D91-D2B703769E88}|Presentation\\Carserv_Presentation\\Carserv_Presentation.csproj|c:\\users\\ca.r215.06\\desktop\\mvc\\carserv\\presentation\\carserv_presentation\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{595CDAAD-1652-41E8-9D91-D2B703769E88}|Presentation\\Carserv_Presentation\\Carserv_Presentation.csproj|solutionrelative:presentation\\carserv_presentation\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{595CDAAD-1652-41E8-9D91-D2B703769E88}|Presentation\\Carserv_Presentation\\Carserv_Presentation.csproj|c:\\users\\ca.r215.06\\desktop\\mvc\\carserv\\presentation\\carserv_presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{595CDAAD-1652-41E8-9D91-D2B703769E88}|Presentation\\Carserv_Presentation\\Carserv_Presentation.csproj|solutionrelative:presentation\\carserv_presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588DE536-7681-42F5-B1CD-8474EAA0599A}|Core\\Carserv_Domain\\Carserv_Domain.csproj|c:\\users\\ca.r215.06\\desktop\\mvc\\carserv\\core\\carserv_domain\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588DE536-7681-42F5-B1CD-8474EAA0599A}|Core\\Carserv_Domain\\Carserv_Domain.csproj|solutionrelative:core\\carserv_domain\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4809EE75-13A4-46F4-A32C-10D9E9C0D668}|Infrastructure\\Carserv_Persistence\\Carserv_Persistence.csproj|c:\\users\\ca.r215.06\\desktop\\mvc\\carserv\\infrastructure\\carserv_persistence\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4809EE75-13A4-46F4-A32C-10D9E9C0D668}|Infrastructure\\Carserv_Persistence\\Carserv_Persistence.csproj|solutionrelative:infrastructure\\carserv_persistence\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{595CDAAD-1652-41E8-9D91-D2B703769E88}|Presentation\\Carserv_Presentation\\Carserv_Presentation.csproj|c:\\users\\ca.r215.06\\desktop\\mvc\\carserv\\presentation\\carserv_presentation\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{595CDAAD-1652-41E8-9D91-D2B703769E88}|Presentation\\Carserv_Presentation\\Carserv_Presentation.csproj|solutionrelative:presentation\\carserv_presentation\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{595CDAAD-1652-41E8-9D91-D2B703769E88}|Presentation\\Carserv_Presentation\\Carserv_Presentation.csproj|c:\\users\\ca.r215.06\\desktop\\mvc\\carserv\\presentation\\carserv_presentation\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{595CDAAD-1652-41E8-9D91-D2B703769E88}|Presentation\\Carserv_Presentation\\Carserv_Presentation.csproj|solutionrelative:presentation\\carserv_presentation\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588DE536-7681-42F5-B1CD-8474EAA0599A}|Core\\Carserv_Domain\\Carserv_Domain.csproj|c:\\users\\ca.r215.06\\desktop\\mvc\\carserv\\core\\carserv_domain\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588DE536-7681-42F5-B1CD-8474EAA0599A}|Core\\Carserv_Domain\\Carserv_Domain.csproj|solutionrelative:core\\carserv_domain\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588DE536-7681-42F5-B1CD-8474EAA0599A}|Core\\Carserv_Domain\\Carserv_Domain.csproj|c:\\users\\ca.r215.06\\desktop\\mvc\\carserv\\core\\carserv_domain\\helper\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588DE536-7681-42F5-B1CD-8474EAA0599A}|Core\\Carserv_Domain\\Carserv_Domain.csproj|solutionrelative:core\\carserv_domain\\helper\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{595CDAAD-1652-41E8-9D91-D2B703769E88}|Presentation\\Carserv_Presentation\\Carserv_Presentation.csproj|c:\\users\\ca.r215.06\\desktop\\mvc\\carserv\\presentation\\carserv_presentation\\areas\\admin\\views\\expert\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{595CDAAD-1652-41E8-9D91-D2B703769E88}|Presentation\\Carserv_Presentation\\Carserv_Presentation.csproj|solutionrelative:presentation\\carserv_presentation\\areas\\admin\\views\\expert\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4809EE75-13A4-46F4-A32C-10D9E9C0D668}|Infrastructure\\Carserv_Persistence\\Carserv_Persistence.csproj|c:\\users\\ca.r215.06\\desktop\\mvc\\carserv\\infrastructure\\carserv_persistence\\expertservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4809EE75-13A4-46F4-A32C-10D9E9C0D668}|Infrastructure\\Carserv_Persistence\\Carserv_Persistence.csproj|solutionrelative:infrastructure\\carserv_persistence\\expertservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588DE536-7681-42F5-B1CD-8474EAA0599A}|Core\\Carserv_Domain\\Carserv_Domain.csproj|c:\\users\\ca.r215.06\\desktop\\mvc\\carserv\\core\\carserv_domain\\expertslider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588DE536-7681-42F5-B1CD-8474EAA0599A}|Core\\Carserv_Domain\\Carserv_Domain.csproj|solutionrelative:core\\carserv_domain\\expertslider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588DE536-7681-42F5-B1CD-8474EAA0599A}|Core\\Carserv_Domain\\Carserv_Domain.csproj|c:\\users\\ca.r215.06\\desktop\\mvc\\carserv\\core\\carserv_domain\\viewmodels\\expertslidervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588DE536-7681-42F5-B1CD-8474EAA0599A}|Core\\Carserv_Domain\\Carserv_Domain.csproj|solutionrelative:core\\carserv_domain\\viewmodels\\expertslidervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{595CDAAD-1652-41E8-9D91-D2B703769E88}|Presentation\\Carserv_Presentation\\Carserv_Presentation.csproj|c:\\users\\ca.r215.06\\desktop\\mvc\\carserv\\presentation\\carserv_presentation\\areas\\admin\\views\\expert\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{595CDAAD-1652-41E8-9D91-D2B703769E88}|Presentation\\Carserv_Presentation\\Carserv_Presentation.csproj|solutionrelative:presentation\\carserv_presentation\\areas\\admin\\views\\expert\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{595CDAAD-1652-41E8-9D91-D2B703769E88}|Presentation\\Carserv_Presentation\\Carserv_Presentation.csproj|c:\\users\\ca.r215.06\\desktop\\mvc\\carserv\\presentation\\carserv_presentation\\areas\\admin\\views\\expert\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{595CDAAD-1652-41E8-9D91-D2B703769E88}|Presentation\\Carserv_Presentation\\Carserv_Presentation.csproj|solutionrelative:presentation\\carserv_presentation\\areas\\admin\\views\\expert\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{595CDAAD-1652-41E8-9D91-D2B703769E88}|Presentation\\Carserv_Presentation\\Carserv_Presentation.csproj|c:\\users\\ca.r215.06\\desktop\\mvc\\carserv\\presentation\\carserv_presentation\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{595CDAAD-1652-41E8-9D91-D2B703769E88}|Presentation\\Carserv_Presentation\\Carserv_Presentation.csproj|solutionrelative:presentation\\carserv_presentation\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{595CDAAD-1652-41E8-9D91-D2B703769E88}|Presentation\\Carserv_Presentation\\Carserv_Presentation.csproj|c:\\users\\ca.r215.06\\desktop\\mvc\\carserv\\presentation\\carserv_presentation\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{595CDAAD-1652-41E8-9D91-D2B703769E88}|Presentation\\Carserv_Presentation\\Carserv_Presentation.csproj|solutionrelative:presentation\\carserv_presentation\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{595CDAAD-1652-41E8-9D91-D2B703769E88}|Presentation\\Carserv_Presentation\\Carserv_Presentation.csproj|c:\\users\\ca.r215.06\\desktop\\mvc\\carserv\\presentation\\carserv_presentation\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{595CDAAD-1652-41E8-9D91-D2B703769E88}|Presentation\\Carserv_Presentation\\Carserv_Presentation.csproj|solutionrelative:presentation\\carserv_presentation\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{595CDAAD-1652-41E8-9D91-D2B703769E88}|Presentation\\Carserv_Presentation\\Carserv_Presentation.csproj|c:\\users\\ca.r215.06\\desktop\\mvc\\carserv\\presentation\\carserv_presentation\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{595CDAAD-1652-41E8-9D91-D2B703769E88}|Presentation\\Carserv_Presentation\\Carserv_Presentation.csproj|solutionrelative:presentation\\carserv_presentation\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{595CDAAD-1652-41E8-9D91-D2B703769E88}|Presentation\\Carserv_Presentation\\Carserv_Presentation.csproj|c:\\users\\ca.r215.06\\desktop\\mvc\\carserv\\presentation\\carserv_presentation\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{595CDAAD-1652-41E8-9D91-D2B703769E88}|Presentation\\Carserv_Presentation\\Carserv_Presentation.csproj|solutionrelative:presentation\\carserv_presentation\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588DE536-7681-42F5-B1CD-8474EAA0599A}|Core\\Carserv_Domain\\Carserv_Domain.csproj|c:\\users\\ca.r215.06\\desktop\\mvc\\carserv\\core\\carserv_domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588DE536-7681-42F5-B1CD-8474EAA0599A}|Core\\Carserv_Domain\\Carserv_Domain.csproj|solutionrelative:core\\carserv_domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{595CDAAD-1652-41E8-9D91-D2B703769E88}|Presentation\\Carserv_Presentation\\Carserv_Presentation.csproj|c:\\users\\ca.r215.06\\desktop\\mvc\\carserv\\presentation\\carserv_presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{595CDAAD-1652-41E8-9D91-D2B703769E88}|Presentation\\Carserv_Presentation\\Carserv_Presentation.csproj|solutionrelative:presentation\\carserv_presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFCD299-16A8-440E-A365-0ABC6E8605F8}|Core\\Carserv_Application\\Carserv_Application.csproj|c:\\users\\ca.r215.06\\desktop\\mvc\\carserv\\core\\carserv_application\\iexpertservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFCD299-16A8-440E-A365-0ABC6E8605F8}|Core\\Carserv_Application\\Carserv_Application.csproj|solutionrelative:core\\carserv_application\\iexpertservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4809EE75-13A4-46F4-A32C-10D9E9C0D668}|Infrastructure\\Carserv_Persistence\\Carserv_Persistence.csproj|c:\\users\\ca.r215.06\\desktop\\mvc\\carserv\\infrastructure\\carserv_persistence\\migrations\\20240523054234_createexpertstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4809EE75-13A4-46F4-A32C-10D9E9C0D668}|Infrastructure\\Carserv_Persistence\\Carserv_Persistence.csproj|solutionrelative:infrastructure\\carserv_persistence\\migrations\\20240523054234_createexpertstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Carserv\\Presentation\\Carserv_Presentation\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Carserv_Presentation\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Carserv\\Presentation\\Carserv_Presentation\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Presentation\\Carserv_Presentation\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADcAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T07:08:40.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Carserv\\Presentation\\Carserv_Presentation\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Carserv_Presentation\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Carserv\\Presentation\\Carserv_Presentation\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Presentation\\Carserv_Presentation\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T06:48:42.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Carserv\\Core\\Carserv_Domain\\Helper\\Role.cs",
+              "RelativeDocumentMoniker": "Core\\Carserv_Domain\\Helper\\Role.cs",
+              "ToolTip": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Carserv\\Core\\Carserv_Domain\\Helper\\Role.cs",
+              "RelativeToolTip": "Core\\Carserv_Domain\\Helper\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:43:57.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Carserv\\Presentation\\Carserv_Presentation\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Carserv_Presentation\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Carserv\\Presentation\\Carserv_Presentation\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Presentation\\Carserv_Presentation\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAkwDkAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:39:33.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Carserv\\Presentation\\Carserv_Presentation\\Areas\\admin\\Views\\Expert\\Update.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Carserv_Presentation\\Areas\\admin\\Views\\Expert\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Carserv\\Presentation\\Carserv_Presentation\\Areas\\admin\\Views\\Expert\\Update.cshtml",
+              "RelativeToolTip": "Presentation\\Carserv_Presentation\\Areas\\admin\\Views\\Expert\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T06:25:09.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Carserv\\Presentation\\Carserv_Presentation\\Areas\\admin\\Views\\Expert\\Create.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Carserv_Presentation\\Areas\\admin\\Views\\Expert\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Carserv\\Presentation\\Carserv_Presentation\\Areas\\admin\\Views\\Expert\\Create.cshtml",
+              "RelativeToolTip": "Presentation\\Carserv_Presentation\\Areas\\admin\\Views\\Expert\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T06:08:39.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Carserv\\Presentation\\Carserv_Presentation\\Areas\\admin\\Views\\Expert\\Index.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Carserv_Presentation\\Areas\\admin\\Views\\Expert\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Carserv\\Presentation\\Carserv_Presentation\\Areas\\admin\\Views\\Expert\\Index.cshtml",
+              "RelativeToolTip": "Presentation\\Carserv_Presentation\\Areas\\admin\\Views\\Expert\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T05:59:12.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExpertController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Carserv\\Presentation\\Carserv_Presentation\\Areas\\admin\\Controllers\\ExpertController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Carserv_Presentation\\Areas\\admin\\Controllers\\ExpertController.cs",
+              "ToolTip": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Carserv\\Presentation\\Carserv_Presentation\\Areas\\admin\\Controllers\\ExpertController.cs",
+              "RelativeToolTip": "Presentation\\Carserv_Presentation\\Areas\\admin\\Controllers\\ExpertController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T05:59:05.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Carserv\\Presentation\\Carserv_Presentation\\Areas\\admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Carserv_Presentation\\Areas\\admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Carserv\\Presentation\\Carserv_Presentation\\Areas\\admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Presentation\\Carserv_Presentation\\Areas\\admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T05:55:47.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Carserv\\Presentation\\Carserv_Presentation\\Areas\\admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Carserv_Presentation\\Areas\\admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Carserv\\Presentation\\Carserv_Presentation\\Areas\\admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Presentation\\Carserv_Presentation\\Areas\\admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T05:55:34.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Carserv\\Presentation\\Carserv_Presentation\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Carserv_Presentation\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Carserv\\Presentation\\Carserv_Presentation\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Presentation\\Carserv_Presentation\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T05:55:24.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Carserv\\Presentation\\Carserv_Presentation\\Areas\\admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Carserv_Presentation\\Areas\\admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Carserv\\Presentation\\Carserv_Presentation\\Areas\\admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Presentation\\Carserv_Presentation\\Areas\\admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAB4BAAAAAAAAAAAIwDsBAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T05:54:46.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Carserv\\Presentation\\Carserv_Presentation\\Areas\\admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Carserv_Presentation\\Areas\\admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Carserv\\Presentation\\Carserv_Presentation\\Areas\\admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Presentation\\Carserv_Presentation\\Areas\\admin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T05:54:39.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Carserv\\Presentation\\Carserv_Presentation\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Presentation\\Carserv_Presentation\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Carserv\\Presentation\\Carserv_Presentation\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Presentation\\Carserv_Presentation\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-23T05:51:41.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Carserv\\Presentation\\Carserv_Presentation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Carserv_Presentation\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Carserv\\Presentation\\Carserv_Presentation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Presentation\\Carserv_Presentation\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAGAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T05:47:29.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Carserv\\Presentation\\Carserv_Presentation\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Carserv_Presentation\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Carserv\\Presentation\\Carserv_Presentation\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Presentation\\Carserv_Presentation\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAE0BAAAAAAAAAAAAAG0BAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T05:47:26.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20240523054234_createExpertsTable.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Carserv\\Infrastructure\\Carserv_Persistence\\Migrations\\20240523054234_createExpertsTable.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Carserv_Persistence\\Migrations\\20240523054234_createExpertsTable.cs",
+              "ToolTip": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Carserv\\Infrastructure\\Carserv_Persistence\\Migrations\\20240523054234_createExpertsTable.cs",
+              "RelativeToolTip": "Infrastructure\\Carserv_Persistence\\Migrations\\20240523054234_createExpertsTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T05:42:34.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Carserv\\Presentation\\Carserv_Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "Presentation\\Carserv_Presentation\\appsettings.json",
+              "ToolTip": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Carserv\\Presentation\\Carserv_Presentation\\appsettings.json",
+              "RelativeToolTip": "Presentation\\Carserv_Presentation\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-23T05:35:48.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Carserv\\Presentation\\Carserv_Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\Carserv_Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Carserv\\Presentation\\Carserv_Presentation\\Program.cs",
+              "RelativeToolTip": "Presentation\\Carserv_Presentation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T05:35:47.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Carserv\\Infrastructure\\Carserv_Persistence\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Carserv_Persistence\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Carserv\\Infrastructure\\Carserv_Persistence\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Carserv_Persistence\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T05:34:36.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ExpertService.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Carserv\\Infrastructure\\Carserv_Persistence\\ExpertService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Carserv_Persistence\\ExpertService.cs",
+              "ToolTip": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Carserv\\Infrastructure\\Carserv_Persistence\\ExpertService.cs",
+              "RelativeToolTip": "Infrastructure\\Carserv_Persistence\\ExpertService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwDoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T05:33:26.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IExpertService.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Carserv\\Core\\Carserv_Application\\IExpertService.cs",
+              "RelativeDocumentMoniker": "Core\\Carserv_Application\\IExpertService.cs",
+              "ToolTip": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Carserv\\Core\\Carserv_Application\\IExpertService.cs",
+              "RelativeToolTip": "Core\\Carserv_Application\\IExpertService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T05:30:26.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Carserv\\Core\\Carserv_Domain\\ViewModels\\LoginVM.cs",
+              "RelativeDocumentMoniker": "Core\\Carserv_Domain\\ViewModels\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Carserv\\Core\\Carserv_Domain\\ViewModels\\LoginVM.cs",
+              "RelativeToolTip": "Core\\Carserv_Domain\\ViewModels\\LoginVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T05:29:53.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Carserv\\Core\\Carserv_Domain\\ViewModels\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "Core\\Carserv_Domain\\ViewModels\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Carserv\\Core\\Carserv_Domain\\ViewModels\\RegisterVM.cs",
+              "RelativeToolTip": "Core\\Carserv_Domain\\ViewModels\\RegisterVM.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T05:29:42.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ExpertSliderVM.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Carserv\\Core\\Carserv_Domain\\ViewModels\\ExpertSliderVM.cs",
+              "RelativeDocumentMoniker": "Core\\Carserv_Domain\\ViewModels\\ExpertSliderVM.cs",
+              "ToolTip": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Carserv\\Core\\Carserv_Domain\\ViewModels\\ExpertSliderVM.cs",
+              "RelativeToolTip": "Core\\Carserv_Domain\\ViewModels\\ExpertSliderVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T05:27:52.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ExpertSlider.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Carserv\\Core\\Carserv_Domain\\ExpertSlider.cs",
+              "RelativeDocumentMoniker": "Core\\Carserv_Domain\\ExpertSlider.cs",
+              "ToolTip": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Carserv\\Core\\Carserv_Domain\\ExpertSlider.cs",
+              "RelativeToolTip": "Core\\Carserv_Domain\\ExpertSlider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T05:25:43.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Carserv\\Core\\Carserv_Domain\\User.cs",
+              "RelativeDocumentMoniker": "Core\\Carserv_Domain\\User.cs",
+              "ToolTip": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Carserv\\Core\\Carserv_Domain\\User.cs",
+              "RelativeToolTip": "Core\\Carserv_Domain\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T05:23:35.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Carserv\\Presentation\\Carserv_Presentation\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Carserv_Presentation\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Carserv\\Presentation\\Carserv_Presentation\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Presentation\\Carserv_Presentation\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T05:21:59.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Carserv\\Presentation\\Carserv_Presentation\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Carserv_Presentation\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.06\\Desktop\\MVC\\Carserv\\Presentation\\Carserv_Presentation\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Presentation\\Carserv_Presentation\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T05:21:54.528Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
